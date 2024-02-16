@@ -265,7 +265,7 @@ void Grid::HashWords()
 		std::string mWord = i;
 
 		// Ignore this word if 1. It's longer than 25 letters, 2. It has a letter not in the grid.
-		if (mWord.size() >= 26 || mWord.size() <= 5)
+		if (mWord.size() >= 26 || mWord.size() <= 3)
 		{
 			removedCount++;
 			continue;
