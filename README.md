@@ -74,7 +74,7 @@ It's important to note that not all words in the english dictionary work in Spel
 
 ### Built With
 
-* [![CPP][CPP.cpp]][Next-url]
+* [![CPP][CPP.cpp]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,21 +120,27 @@ VCPKG, JSONCPP
 This is an application that will solve the Spellcast Discord Activity.
 
 ![image](https://github.com/user-attachments/assets/07e1e1f6-9808-48e6-bd6a-02be91d8c74e)
+
 Ensure you install jsoncpp integration in either a manager or manually configured.
 
 ![image](https://github.com/user-attachments/assets/5c375ea3-cff2-461e-96f7-05149f8b73b0)
+
 A simple prompt when ran correctly will appear as above.
 
 ![image](https://github.com/user-attachments/assets/22cb61ef-5959-478a-adc2-11638fbae1ed)
+
 Given a 5 by 5 grid, we form words by connecting letters.
 
 ![image](https://github.com/user-attachments/assets/28683658-cbba-4852-bc21-47e214ec3cd3)
+
 This program will calculate all possible words using asynchronous multithreading.
 
 ![image](https://github.com/user-attachments/assets/0216f4e8-4a4c-4ee7-bc32-dd3ec22f7060)
+
 It will then spit out the longest words to the shortest words
 
 ![image](https://github.com/user-attachments/assets/808bf19d-eed2-4170-b182-62c879ce42af)
+
 Given the objective is to win the game, I have added a "Swap" setting, as the current weakness of this program is that it doesn't account for the abilites. Swap being the most powerful ability other than reshuffling means that the user can swap a single letter with another to form a better word. The answers above show the result of every possible word having a singular letter swapped out as well as not swapped.
 
 
@@ -153,7 +159,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- CONTACT -->
 ## Contact
 
-Ryan Chen - Rchen158@ucsc.edu - [@Discord]fluffy12345
+Ryan Chen - Rchen158@ucsc.edu - [Discord]fluffy12345
 
 Project Link: [https://github.com/RChen158/SpellcastRemastered](https://github.com/RChen158/SpellcastRemastered)
 
@@ -167,6 +173,7 @@ Project Link: [https://github.com/RChen158/SpellcastRemastered](https://github.c
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ryan-chen-3565aa357/
 [CPP.cpp]: https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
+[Discord]: https://static-00.iconduck.com/assets.00/discord-icon-256x256-9roejvqx.png
 [CPP-url]: https://isocpp.org
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
