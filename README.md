@@ -70,7 +70,7 @@ It's important to note that not all words in the english dictionary work in Spel
 
 ### Built With
 
-[CPP-url]
+[CPP]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,9 +170,4 @@ Project Link: [https://github.com/RChen158/SpellcastRemastered](https://github.c
 [linkedin-url]: https://www.linkedin.com/in/ryan-chen-3565aa357/
 [CPP.cpp]: https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
 [Discord-shield]: https://static-00.iconduck.com/assets.00/discord-icon-256x256-9roejvqx.png
-[CPP-url]: https://isocpp.org
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[CPP]: https://isocpp.org
