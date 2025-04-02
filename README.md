@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
-[![Issues][issues-shield]][[issues-url](https://github.com/RCarScar/SpellcastRemastered/issues)]
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/ryan-chen-3565aa357/)]
+[![Issues][issues-shield]][[issues-url]]
+[![LinkedIn][linkedin-shield]][[linkedin-url]]
 
 
 
@@ -33,11 +33,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -159,10 +154,11 @@ Project Link: [https://github.com/RChen158/SpellcastRemastered](https://github.c
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/RCarScar/SpellcastRemastered/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[Next.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png
+[linkedin-url]: https://www.linkedin.com/in/ryan-chen-3565aa357/
+[Next.js]: https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
 [Next-url]: https://isocpp.org
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
