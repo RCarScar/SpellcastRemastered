@@ -70,7 +70,7 @@ It's important to note that not all words in the english dictionary work in Spel
 
 ### Built With
 
-* [[CPP.cpp]]
+[CPP-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
