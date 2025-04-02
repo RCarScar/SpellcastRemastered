@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
-[![Issues][issues-shield]][[issues-url]]
-[![LinkedIn][linkedin-shield]][[linkedin-url]]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -68,13 +68,10 @@ To account for swapping, we simply have a single letter leeway, and so if a sing
 It's important to note that not all words in the english dictionary work in Spellcast, and there are fictional words in Spellcast that work, so data wrangling would be necessary to get a 100% success rate.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
-* [![CPP][CPP.cpp]]
+* [![CPP]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
