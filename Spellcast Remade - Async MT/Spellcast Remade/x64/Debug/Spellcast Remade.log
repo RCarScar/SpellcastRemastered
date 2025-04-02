@@ -1,0 +1,20 @@
+﻿  Grid.cpp
+C:\Users\huner.DESKTOP-2LD0CP4\source\repos\Spellcast Remade - Copy\Spellcast Remade\Grid.cpp(490,19): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\huner.DESKTOP-2LD0CP4\source\repos\Spellcast Remade - Copy\Spellcast Remade\Grid.cpp(543,98): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\huner.DESKTOP-2LD0CP4\source\repos\Spellcast Remade - Copy\Spellcast Remade\Grid.cpp(543,52): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\NewVSCommunity\IDE\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+E:\NewVSCommunity\IDE\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4267:         with
+E:\NewVSCommunity\IDE\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4267:         [
+E:\NewVSCommunity\IDE\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4267:             _Ty1=int
+E:\NewVSCommunity\IDE\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4267:         ]
+  (compiling source file 'Grid.cpp')
+  E:\NewVSCommunity\IDE\VC\Tools\MSVC\14.38.33130\include\utility(278,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\huner.DESKTOP-2LD0CP4\source\repos\Spellcast Remade - Copy\Spellcast Remade\Grid.cpp(541,40):
+  	see reference to function template instantiation 'std::pair<int,std::string>::pair<unsigned __int64,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,0>(std::pair<unsigned __int64,std::basic_string<char,std::char_traits<char>,std::allocator<char>>> &&) noexcept' being compiled
+  		C:\Users\huner.DESKTOP-2LD0CP4\source\repos\Spellcast Remade - Copy\Spellcast Remade\Grid.cpp(541,25):
+  		see the first reference to 'std::pair<int,std::string>::pair' in 'Grid::ThroughFiles'
+  
+  Spellcast Remade.vcxproj -> C:\Users\huner.DESKTOP-2LD0CP4\source\repos\Spellcast Remade - Copy\x64\Debug\Spellcast Remade.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
