@@ -1,6 +1,5 @@
 <a id="readme-top"></a>
 
-[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -71,7 +70,7 @@ It's important to note that not all words in the english dictionary work in Spel
 
 ### Built With
 
-* [![CPP]]
+* [[CPP.cpp]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +155,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- CONTACT -->
 ## Contact
 
-Ryan Chen - Rchen158@ucsc.edu - [Discord]fluffy12345
+Ryan Chen - Rchen158@ucsc.edu - [Discord-shield]fluffy12345
 
 Project Link: [https://github.com/RChen158/SpellcastRemastered](https://github.com/RChen158/SpellcastRemastered)
 
@@ -170,7 +169,7 @@ Project Link: [https://github.com/RChen158/SpellcastRemastered](https://github.c
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ryan-chen-3565aa357/
 [CPP.cpp]: https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
-[Discord]: https://static-00.iconduck.com/assets.00/discord-icon-256x256-9roejvqx.png
+[Discord-shield]: https://static-00.iconduck.com/assets.00/discord-icon-256x256-9roejvqx.png
 [CPP-url]: https://isocpp.org
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
